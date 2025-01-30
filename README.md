@@ -2,7 +2,7 @@
 - 👀 I’m interested in making clean, cute and cozy apps :3
 - 🌱 I’m currently learning flutter and dart through independent projects. 
 - 💞️ I’m looking to collaborate on automated budget allocation models for digital advertising. 
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/alinafghan/) or [email](mailto:alinanasirafghan@gmail.com)
+- 📫 You can reach me on [linkedIn](https://www.linkedin.com/in/alinafghan/) or [email](mailto:alinanasirafghan@gmail.com)
 - ⚡ Fun fact: I love baby hedgehogs 🦔
 
 <!---
